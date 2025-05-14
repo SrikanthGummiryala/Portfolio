@@ -451,9 +451,9 @@ function App() {
                   />
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-gray-800 mb-2">Todo List API(Backend)</h3>
+                  <h3 className="text-xl font-bold text-gray-800 mb-2">User Management(Backend)</h3>
                   <p className="text-gray-600 mb-4">
-                    Built a RESTful ToDo List API using Node.js, Express.js, and MongoDB with CRUD operations and deployed on Render platform.
+                    Built a RESTful User Management using Node.js, Express.js, and MongoDB with CRUD operations and deployed on Render platform.
                   </p>
                   <div className="flex flex-wrap gap-2 mb-4">
                     <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">NodeJs</span>
@@ -462,10 +462,10 @@ function App() {
                     <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">Restful API's</span>
                   </div>
                   <div className="flex space-x-4">
-                    <a href="#" className="text-blue-600 hover:text-blue-800 flex items-center">
+                    <a href="https://github.com/SrikanthGummiryala/userManagement-backend-.git" className="text-blue-600 hover:text-blue-800 flex items-center">
                       <GitHub size={18} className="mr-1" /> Code
                     </a>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 flex items-center">
+                    <a href="https://usermanagement-backend-htxz.onrender.com/users" className="text-blue-600 hover:text-blue-800 flex items-center">
                       <ExternalLink size={18} className="mr-1" /> Live Demo
                     </a>
                   </div>
