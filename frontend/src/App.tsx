@@ -470,7 +470,78 @@ function App() {
                     </a>
                   </div>
                 </div>
+
+                    
+
+              </div> 
+
+              {/* Project 4 */}
+              <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform duration-300 hover:shadow-xl hover:-translate-y-2">
+                <div className="h-48 overflow-hidden">
+                  <img 
+                    src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/Ecommerce-website-design.jpg?auto=format&q=60&fit=max&w=930" 
+                    alt="Project 1" 
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-gray-800 mb-2">ShopNow(MERN Stack)</h3>
+                  <p className="text-gray-600 mb-4">
+                    Developed ShowNow, a fully responsive and dynamic mobile store e-commerce web application using the MERN stack. This fullstack project simulates a real-world online shopping experience, focusing on clean design, optimal performance, and robust frontend-backend integration.
+                  </p>
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">HTML5 & CSS3</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">JavaScript</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">ReactJs</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">NodeJs</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">Express</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">MongoDB</span>
+                  </div>
+                  <div className="flex space-x-4">
+                    <a href="https://github.com/SrikanthGummiryala/NeuzenAiTaskUpdated.git" className="text-blue-600 hover:text-blue-800 flex items-center">
+                      <GitHub size={18} className="mr-1" /> Code
+                    </a>
+                    <a href="https://neuzen-ai-task-updated.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
+                      <ExternalLink size={18} className="mr-1" /> Live Demo
+                    </a>
+                  </div>
+                </div>
               </div>
+
+              {/* Project 5 */}
+              <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform duration-300 hover:shadow-xl hover:-translate-y-2">
+                <div className="h-48 overflow-hidden">
+                  <img 
+                    src="https://vyncx.in/wp-content/uploads/2022/09/Man-track-taxi-driver-cab-on-tablet-map-Converted.png" 
+                    alt="Project 1" 
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-gray-800 mb-2">Vehicle Movement Tracker(MERN Stack)</h3>
+                  <p className="text-gray-600 mb-4">
+                    Developed a full-screen, responsive web application to track vehicle movement in real-time across a long-distance route (~40 km). Designed for clarity, performance, and scalability, this project simulates GPS-based tracking functionality and displays the vehicle’s journey dynamically on the map.
+                  </p>
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">HTML5 & CSS3</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">JavaScript</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">ReactJs</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">NodeJs</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">Express</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs px-3 py-1 rounded-full">MongoDB</span>
+                  </div>
+                  <div className="flex space-x-4">
+                    <a href="https://github.com/SrikanthGummiryala/Vehicle-Movement-Tracker.git" className="text-blue-600 hover:text-blue-800 flex items-center">
+                      <GitHub size={18} className="mr-1" /> Code
+                    </a>
+                    <a href="https://vehicle-movement-tracker-sepia.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
+                      <ExternalLink size={18} className="mr-1" /> Live Demo
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
             </div>
             <div className="text-center mt-12">
               <a href="#" className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium transition-colors duration-300">
